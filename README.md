@@ -1,4 +1,5 @@
-- 👋 Hi, I’m ISHIKA GARG.
+- <p><samp><b><strong> Hey there!</strong> <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px"> </b></samp></p>
+- 🙋 Hi, I’m ISHIKA GARG.
 - 👀 I’m interested in learning new technologies and develope hands-on expertise in various coding languages.
 - 🌱 I’m currently learning python ,java ,sql ,machine learning and deep learning.
 - 💞️ I’m looking to collaborate on open source project that would help me enrich my current knowledge and skills.
@@ -10,3 +11,12 @@
 ishika161/ishika161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
+
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<br>
+![saythanks](https://img.shields.io/badge/Thanks-ff69b4.svg)
+
+</div>
+
+
+![Footer Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg )
